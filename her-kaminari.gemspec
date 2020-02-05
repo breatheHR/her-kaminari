@@ -19,7 +19,7 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   spec.add_runtime_dependency 'her', '~> 1.1.0'
-  spec.add_runtime_dependency 'kaminari', '~> 0.16.1', '>= 0.16.1'
+  spec.add_runtime_dependency 'kaminari', '~> 1.1.0'
 
   spec.add_development_dependency 'coveralls'
   spec.add_development_dependency 'bundler', '~> 1.7'
